@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Numpy array</title>
+      <link>https://teamtact.github.io/hugobase/python/numpy/template-copy1/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://teamtact.github.io/hugobase/python/numpy/template-copy1/</guid>
+      <description>import numpy as npnp.array([1, 23]) array([ 1, 23])  </description>
+    </item>
+    
+    <item>
       <title>Simple Python</title>
       <link>https://teamtact.github.io/hugobase/python/basics/simple-python/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
@@ -35,6 +44,15 @@
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://teamtact.github.io/hugobase/python/basics/template/</guid>
+      <description>print(&amp;#39;Hello Toronto&amp;#39;) Hello Toronto  print(2) 2  </description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://teamtact.github.io/hugobase/python/numpy/template/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://teamtact.github.io/hugobase/python/numpy/template/</guid>
       <description>print(&amp;#39;Hello Toronto&amp;#39;) Hello Toronto  print(2) 2  </description>
     </item>
     
